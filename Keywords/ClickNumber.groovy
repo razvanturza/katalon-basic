@@ -25,7 +25,7 @@ public class ClickNumber {
 			digit = Integer.parseInt(String.valueOf(digit))
 			switch (digit) {
 				case 0:
-					WebUI.click(findTestObject('Page_React Calculator/button_digit_0'))
+					WebUI.click(findTestObject('Page_React Calculator/button_digit_01'))
 					break
 				case 1:
 					WebUI.click(findTestObject('Page_React Calculator/button_digit_1'))

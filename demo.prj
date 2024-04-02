@@ -7,8 +7,9 @@
    <createdVersion>9.3.1</createdVersion>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\Katalon-basic\Katalon-basic\demo.prj</projectFileLocation>
+   <projectFileLocation>D:\Katalon\katalon-basic\demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
